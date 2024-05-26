@@ -1,0 +1,15 @@
+.footercompleto{
+    margin-top:10px;
+    height:30px;
+    background-color:darksalmon;    
+}
+
+.footer-text{
+    color: white;
+    float: right;
+    font-size: 15px; 
+    display: block;
+    background-color: darksalmon;
+    margin-right: 10px;
+    border-radius: 5px ;
+}

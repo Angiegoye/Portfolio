@@ -1,0 +1,21 @@
+.header{
+    background-color: darksalmon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: whitesmoke; 
+    height: auto;  
+    border-radius: 5px;
+}   
+
+.logo{
+    margin-left: 55px;
+    width: 200px;
+    height: 180px;
+    object-fit: contain;
+}
+
+.contenidoflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
